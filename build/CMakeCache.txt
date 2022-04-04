@@ -183,12 +183,6 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Value Computed by CMake
-RemoteCli_BINARY_DIR:STATIC=/home/pi/Documents/SonyRemoteSDK/build
-
-//Value Computed by CMake
-RemoteCli_SOURCE_DIR:STATIC=/home/pi/Documents/SonyRemoteSDK
-
 //Path to a library.
 camera_remote:FILEPATH=/home/pi/Documents/SonyRemoteSDK/external/crsdk/libCr_Core.so
 
